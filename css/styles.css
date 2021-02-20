@@ -1,0 +1,152 @@
+
+body{
+
+    font-family:'Montserrat', sans-serif; ;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.container-section1{
+
+    background-color: #ff4c68;
+    padding: 3% 15% 2%;
+    margin-bottom: -15%;
+
+}
+
+.Title-Image {
+
+transform: rotate(25deg);
+width: 60%;
+right: 30%;
+}
+
+.play{
+
+    margin-left: 3%;
+}
+
+.section1{
+
+    margin-top: 4%;
+}
+a{
+    font-family: 'Montserrat', sans-serif;;
+}
+.section2 {
+
+padding-top: 8%;
+padding-bottom: 8%;
+background-color:white;
+}
+
+.Section3Image{
+
+    background-color: #ff4c68 ;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.Section3Text{
+    background-color: #ff4c68 ;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+#DogImage{
+
+    border-radius: 50%;
+}
+#Lady{
+    border-radius: 50%;
+}#dosdes{
+
+    margin-left: 1%;
+}
+
+#Ladydes{
+
+    margin-left:1% ;
+}
+
+.sction3press{
+
+padding: 5% 10% 5%;
+background-color:#ff4c68 ;
+}
+.pressI{
+
+
+    width: 50%;
+}
+.container-section4{
+    background-color: white;
+    padding: 3% 15% 7%;
+
+}
+
+.section4row{
+
+padding-top: 5%;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+.section4row2{
+
+    margin-left: 10%;
+    margin-right: 10%;
+    
+
+}
+
+.section5button{
+
+    padding: 6% 37% 10%;
+    background-color:#ff4c68 ;
+}
+.section5text{
+
+    padding-top: 10%;
+    background-color:#ff4c68 ;
+}
+
+.section6text{
+    padding-top: 1%;
+    padding-bottom: 3%;
+
+
+}
+
+@media (max-width:1028px)
+{
+
+.Title-Image{
+
+    position: static;
+    transform: rotate(0);
+}
+.section1{
+
+    text-align: center;
+}
+}
+.icon{
+
+
+    color:orangered ;
+}
+.icon:hover{
+
+    color: red;
+}
+
+.section6icon{
+    padding-top: 2%;
+}
